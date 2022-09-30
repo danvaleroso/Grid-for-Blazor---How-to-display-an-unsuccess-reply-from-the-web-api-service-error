@@ -2,7 +2,7 @@
 
 This example demonstrates how to display an error message from the Web API Service when the criteria is not met during editing. 
 
-![image](https://user-images.githubusercontent.com/69251191/193251341-5e538b39-7308-43db-9e52-d6a77966232f.png)
+![image](https://user-images.githubusercontent.com/69251191/193257592-b62f2282-cf01-4785-b341-a6a4f61ac253.png)
 
 In the Web API Service controller, return a bad request error when the edited value does not meet the criteria.
 
